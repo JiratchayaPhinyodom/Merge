@@ -39,8 +39,7 @@ module.exports = {
 Create a file named 'merge.ts' in the root of your project and write down your code.
 
 ## Create a test file
-
-### Create a folder named __tests__ in the root of your project and create a file named merge.test.ts inside it and write down your test code.
+Create a folder named ' __tests__' in the root of your project and create a file named merge.test.ts inside it and write down your test code.
 
 ## Update package.json scripts
 Modify the "scripts" section in your package.json file
